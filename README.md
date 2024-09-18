@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Gangan</h1>
+<img align="center" src="https://drive.google.com/uc?export=view&id=1APYOYS-aOlkBPUz93T-lxDEfQeNfCBJN" alt="yash_gangan" height="300" width="1000" />
 <h3 align="center">A passionate Web developer</h3>
+
 
 - 🔭 I’m currently working on **An Augmented Modulated Deep Learning Based Intelligent Predictive Model for Brain Tumor Detection Using GAN Ensemble**
 
