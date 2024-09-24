@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yashgangan97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NKkf2a8CK1SQyMmOMbzypluQJXMXXE35/view?usp=sharing](https://drive.google.com/file/d/1NKkf2a8CK1SQyMmOMbzypluQJXMXXE35/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NKkf2a8CK1SQyMmOMbzypluQJXMXXE35/view?usp=sharing](https://drive.google.com/file/d/1Mbbr-PICTh3CyvRL7brhf6K66PXyql6A/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
