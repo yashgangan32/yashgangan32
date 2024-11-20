@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **An Augmented Modulated Deep Learning Based Intelligent Predictive Model for Brain Tumor Detection Using GAN Ensemble**
 
-- 🌱 I’m currently learning **Deep learning,NextJs,Typescript**
+- 🌱 I’m currently learning **Deep learning,NextJs**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
